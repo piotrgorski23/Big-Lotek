@@ -1,6 +1,10 @@
 # Big Lotek
 
 ## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+
 
 ## General info
 This project is a simple lottery game that will draw 6 numbers between 1 to 49.
@@ -11,7 +15,7 @@ I made this project to improve in JavaScript proficiency and to better understan
 Project was created with:
 * HTML5
 * CSS3
-* Bootstrap version: 5.1.3
+* [Bootstrap version: 5.1.3](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
 * JavaScript ES6
 
 ## Setup
