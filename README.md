@@ -23,4 +23,4 @@ To run this project you can do it in two ways.
 
 The first way is to click on this [link](https://htmlpreview.github.io/?https://github.com/piotrgorski23/Big-Lotek/blob/master/index.html).
 
-The other way is to download the whole project and run it in your browser.
+The other way is to download whole repository and run it in your browser.
